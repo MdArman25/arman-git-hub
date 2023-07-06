@@ -1,0 +1,25 @@
+*{margin:0px;
+padding: 0px;}
+
+.container{
+    display:flex;
+   height: 500px;
+   justify-content: space-around;
+align-items: center;
+border: 5px solid red;
+}
+.box{width: 200px;
+    height: 110px;
+    padding: 40px;
+    background: green;
+
+}
+.box2{
+    background-color:red;
+
+}
+.box3{ cursor: url(
+ "https://picsum.photos/seed/picsum/200/300"),auto;
+
+    background: blueviolet;
+}
